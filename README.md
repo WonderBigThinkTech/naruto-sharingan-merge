@@ -39,12 +39,3 @@ python demo.py
 トラッキング信頼値の閾値<br>
 デフォルト：0.5
 ectron)のサンプル追加 (mediapipe 0.8.3)~~
-
-# Reference
-* [MediaPipe](https://github.com/google/mediapipe)
-
-# Author
-高橋かずひと(https://twitter.com/KzhtTkhs)
- 
-# License 
-NARUTO-Sharingan-Iris-Overlay is under [MIT License](LICENSE).
